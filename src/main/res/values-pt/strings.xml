@@ -1,0 +1,71 @@
+<resources>
+    <string name="action_settings">Ajustes</string>
+    <string name="add_expense">Nova despesa</string>
+    <string name="add_income">Novo ingresso</string>
+    <string name="amount">Valor</string>
+    <string name="app_name">MoneySaver</string>
+    <string name="cancel">Cancelar</string>
+    <string name="custom_expense">Despesa personalizada</string>
+    <string name="custom_income">Ingresso personalizado</string>
+    <string name="date">Data</string>
+    <string name="delete">Excluir</string>
+    <string name="deleted">Excluído</string>
+    <string name="done">Pronto!</string>
+    <string name="expense_chart">Gráfico de despesas</string>
+    <string name="expense_type">Tipo</string>
+    <string name="expenses">Despesas</string>
+    <string name="from">Desde</string>
+    <string name="hint_details">Detalhes</string>
+    <string name="hint_pick_the_type">Escolha o tipo</string>
+    <string name="hint_view_statistics">Ver estatísticas</string>
+    <string name="income">Ingressos</string>
+    <string name="income_chart">Gráfico de ingressos</string>
+    <string name="margin">Diferença</string>
+    <string name="minus_sign">-</string>
+    <string name="new_expense">Nova despesa</string>
+    <string name="new_income">Novo ingresso</string>
+    <string name="no_expenses_in_this_period">Você não tem nenhuma despesa\nregistrada nesse período</string>
+    <string name="no_income_in_this_period">Você não tem nenhum ingresso\nregistrado nesse período</string>
+    <string name="no_items_string">Comece anotando seus ingressos e despesas</string>
+    <string name="ok">OK</string>
+    <string name="other_ellipsized">Outro…</string>
+    <string name="pick_expense_type">Escolha o tipo de despesa</string>
+    <string name="pick_income_type">Escolha o tipo de ingresso</string>
+    <string name="please_pick_the_type">Por favor, escolha o tipo</string>
+    <string name="plus_sign">+</string>
+    <string name="save">Salvar</string>
+    <string name="title_activity_item_details">Detalhes</string>
+    <string name="title_activity_stats">Estatísticas</string>
+    <string name="to">Até</string>
+    <string name="undo">Voltar</string>
+    <string name="value_is_too_large">O valor é grande demais</string>
+    <string name="view_stats">Ver estatísticas</string>
+    <string name="today">Hoje</string>
+    <string-array name="expense_items_array">
+        <item>Compras</item>
+        <item>Roupa</item>
+        <item>Aluguel</item>
+        <item>Cuidado pessoal</item>
+        <item>Combustível</item>
+        <item>Academia</item>
+        <item>Medicamentos</item>
+        <item>Restaurante</item>
+        <item>Dívidas</item>
+        <item>Entretenimento</item>
+        <item>Transporte</item>
+    </string-array>
+    <string-array name="income_items_array">
+        <item>Salário</item>
+        <item>Pagamento adiantado</item>
+        <item>Décimo terceiro</item>
+        <item>Pagamentos</item>
+    </string-array>
+    <string name="suggestions">Sugestões</string>
+    <string name="entertainment">Entretenimento</string>
+    <string name="information">Informação</string>
+    <string name="created_by">Criado por Jhonathan Ballesteros</string>
+    <string name="version">Versão 0.58</string>
+    <string name="send_suggestion">Enviar sugestão</string>
+    <string name="subject">Assunto</string>
+    <string name="message">Sugestão</string>
+</resources>

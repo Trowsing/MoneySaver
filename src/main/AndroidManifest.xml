@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.tr.expenses"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:name="com.tr.MoneySaver.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Material">
+        <activity
+            android:name="com.tr.MoneySaver.ui.MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tr.MoneySaver.ui.ItemDetailsActivity"
+            android:label="@string/title_activity_item_details"
+            android:parentActivityName="com.tr.MoneySaver.ui.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.tr.MoneySaver.ui.MainActivity"/>
+        </activity>
+        <activity
+            android:name="com.tr.MoneySaver.ui.Informationapp"
+            android:label="@string/information"
+            android:parentActivityName="com.tr.MoneySaver.ui.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.tr.MoneySaver.ui.MainActivity"/>
+        </activity>
+        <activity
+            android:name="com.tr.MoneySaver.ui.Suggestions"
+            android:label="@string/suggestions"
+            android:parentActivityName="com.tr.MoneySaver.ui.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.tr.MoneySaver.ui.MainActivity"/>
+        </activity>
+        <activity
+            android:name="com.tr.MoneySaver.ui.StatsActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_stats">
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.tr.MoneySaver.ui.MainActivity"/>
+        </activity>
+    </application>
+
+</manifest>

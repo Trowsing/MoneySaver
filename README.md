@@ -4,11 +4,11 @@ Android app to track daily expenses and incomes, you can check how much you spen
 
 
 ## Getting Started
-Clone this repository and import into **Android Studio**
+Clone this repository and import into **Android Studio**.
 ```bash
 git clone https://github.com/Trowsing/MoneySaver.git
 ```
-You can also use the "gradlew build" command or use "Import Project" in Android Studio.
+You can also use the "gradlew build" command.
 
 Screenshots
 -------------

@@ -1,6 +1,6 @@
 # MoneySaver
 
-Android app to track daily expenses and incomes, you can check how much you spent/got and have a graphical representation of it with a pie chart.
+Android app to track daily expenses and incomes, you can check how much you spent/got during a given amount of time and have a graphical representation of it with a pie chart by categories.
 
 
 ## Getting Started
@@ -17,7 +17,7 @@ Screenshots
 
 
 ## Build variants
-Use the Android Studio *Build Variants* button to choose between **production** and **staging** flavors combined with debug and release build types
+Use the Android Studio *Build Variants* button to choose between **production** and **staging** flavors combined with debug and release build types.
 
 
 ## Generating signed APK
@@ -33,8 +33,8 @@ This project is mantained by:
 
 ## Contributing
 
-1. Fork it
+1. Fork it.
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -m 'Add some feature')
 4. Push your branch (git push origin my-new-feature)
-5. Create a new Pull Request
+5. Create a new Pull Request.
